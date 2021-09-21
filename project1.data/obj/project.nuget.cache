@@ -1,19 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KcLfVhExQEB3usfaajrTOs3muJKBtZAcLy46uIV477VCG9PgaUkNRJuvGEO6NEK3BZoKPuLKvS5nUU+TuGm3jQ==",
+  "dgSpecHash": "iVciSpNk/+90sc0M7E9bMBkTOC7Voly3GCDwhJiuG4ubu/uIQfut7wFLuGHnipzj41yRUc5zyLGgiwJu/UsK2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Avaaaaaaaa\\source\\repos\\Project1\\project1.data\\project1.data.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\mongodb.driver\\2.13.1\\mongodb.driver.2.13.1.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\mongodb.driver.core\\2.13.1\\mongodb.driver.core.2.13.1.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "C:\\Users\\Avaaaaaaaa\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Avaaaaaaaa\\source\\repos\\gitrepo\\project1\\project1.data\\project1.data.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
